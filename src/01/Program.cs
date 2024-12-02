@@ -39,9 +39,6 @@ for (int i = 0; i < 1000; i++)
 
 Console.WriteLine($"The similarity score was: {similarity}");
 
-
-
-
 //just for fun
 static void BubbleSort(int[] list) {
     int n = list.Length;
